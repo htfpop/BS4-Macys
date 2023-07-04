@@ -1,7 +1,7 @@
 """ **************************************************************
 * Programmer : Chris Leung                                       *
 * Project    : Macy's Parser                                     *
-* Purpose    : Scrape all Macys men's clothes items and sort by *
+* Purpose    : Scrape all Macy's men's clothes items and sort by *
 *              number of reviews in descending order             *
 *****************************************************************"""
 
