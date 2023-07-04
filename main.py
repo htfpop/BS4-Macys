@@ -3,6 +3,8 @@
 * Project    : Macy's Parser                                     *
 * Purpose    : Scrape all Macy's men's clothes items and sort by *
 *              number of reviews in descending order             *
+* Usage      : run in windows command-line                       *
+* Command    : python main.py                                    *
 *****************************************************************"""
 
 from bs4 import BeautifulSoup
